@@ -1,5 +1,5 @@
-# Hi, I'm Kiro Abdelmalak 👋  
-**aka Kerellos** — NASA ADC Finalist | Creator of Phantom Track | HS Senior | Electrical Engineering & Software Enthusiast  
+# Hi, I'm Kerellos Abdelmalak 👋  
+**aka Kiro** — NASA ADC Finalist | Creator of Phantom Track | HS Senior | Electrical Engineering & Software Enthusiast  
 
 ---
 
