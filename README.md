@@ -31,7 +31,7 @@ Unity app showing the Artemis II mission path with real-time educational outreac
 ---
 
 ## 🌐 Find Me Online  
-- 🌎 [**Website**](https://kerellos.com)  
+- 🌎 [**kerellos.com**](https://kerellos.com)
 - 💼 [**LinkedIn**](www.linkedin.com/in/kerellos)  
 - 🖥 [**GitHub**](https://github.com/YOURUSERNAME)  
 
